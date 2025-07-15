@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Crime Hotspot Analysis Using Clustering (Los Angeles Crime Data)
 
 This project applies unsupervised machine learning techniques to identify spatial crime hotspots in Los Angeles using a large-scale dataset (`Crime_Data_from_2020_to_Present.csv`). We implement and compare **KMeans** and **Agglomerative Clustering** algorithms, evaluate their performance using **Silhouette Scores**, and visualize crime patterns through scatter plots and dashboards. This project follows the **CRISP-DM** methodology and includes data cleaning, feature engineering, modeling, and evaluation.
@@ -62,3 +63,6 @@ cd crime-hotspot-analysis
 3. Run the notebook:
 
 Open notebooks/Group11_Model_implementation.ipynb in Jupyter/Colab.
+=======
+# Crime-Data-Analysis
+>>>>>>> f308ea56a89869fdb77c2458e8f29a12a63befcd
