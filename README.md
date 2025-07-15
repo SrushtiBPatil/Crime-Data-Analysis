@@ -70,6 +70,3 @@ cd crime-hotspot-analysis
 3. Run the notebook:
 
 Open notebooks/Group11_Model_implementation.ipynb in Jupyter/Colab.
-=======
-# Crime-Data-Analysis
->>>>>>> f308ea56a89869fdb77c2458e8f29a12a63befcd
