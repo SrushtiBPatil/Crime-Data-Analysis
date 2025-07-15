@@ -21,6 +21,13 @@ This project applies unsupervised machine learning techniques to identify spatia
 - Google Colab (execution environment)
 
 ---
+## 📥 Dataset Source
+
+> 📂 [Crime Data from 2020 to Present – data.lacity.org](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)
+
+Note: Due to GitHub's file size limitations, the full dataset is not included in this repo. You can download it manually from the link above.
+
+---
 
 ## 🚀 Features
 
