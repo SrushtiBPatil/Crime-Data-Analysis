@@ -1,0 +1,12 @@
+---
+
+## ✅ `requirements.txt`
+
+These are based on the packages used in your Python script and common visualization tools.
+
+```txt
+pandas==2.2.2
+numpy==1.24.4
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.3.2
