@@ -62,8 +62,8 @@ Due to size constraints, only a **20,000-row sample** is used for clustering. Yo
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/crime-hotspot-analysis.git
-cd crime-hotspot-analysis
+git clone https://github.com/your-username/Crime-Data-Analysis.git
+cd Crime-Data-Analysis
 
 2. pip install -r requirements.txt
 
